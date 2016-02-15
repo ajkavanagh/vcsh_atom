@@ -1,0 +1,47 @@
+"*":
+  "exception-reporting":
+    userId: "21fc00bc-f7ce-82f8-b026-a5894555c65e"
+  "release-notes":
+    viewedVersion: "0.65.0"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "9e38a2bb83bd6b966ae18680d2ad50236203159c"
+  editor:
+    showInvisibles: true
+    softWrap: true
+    invisibles: {}
+    fontFamily: "Consolas"
+    showIndentGuide: true
+    softWrapHangingIndent: 4
+    preferredLineLength: 79
+  core:
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+    disabledPackages: [
+      "markdown-scroll-sync"
+      "language-coffee-script-angular"
+      "linter-coffeelint"
+      "project-manager"
+    ]
+  minimap:
+    plugins:
+      "git-diff": true
+  "autocomplete-plus":
+    autoActivationDelay: 200
+  "save-session":
+    dataSaveFolder: "/Users/alex/.atom/packages/save-session/projects"
+    project: "/Users/alex/Projects/Websand/devops3/development/src/websand3-userapp"
+    windowX: 0
+    windowY: 23
+    windowWidth: 1280
+    windowHeight: 773
+    fullScreen: false
+    projects: [
+      "/Users/alex/Projects/Websand/devops3/development/src/websand3-userapp"
+    ]
+  "todo-show": {}
+  linter: {}
